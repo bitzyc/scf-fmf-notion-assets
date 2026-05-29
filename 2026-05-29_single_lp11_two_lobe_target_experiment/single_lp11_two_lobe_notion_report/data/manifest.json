@@ -619,5 +619,8 @@
       "restricted_rotation_deg": 0.0,
       "target_label": "LP11x-polY"
     }
-  ]
+  ],
+  "notion_page": "https://www.notion.so/36f2f066c716811db054f01aa7cda602",
+  "notion_parent_page": "https://www.notion.so/3612f066c7168179b7e4dcc323a4300d",
+  "asset_commit": "https://github.com/bitzyc/scf-fmf-notion-assets/commit/30ec947"
 }

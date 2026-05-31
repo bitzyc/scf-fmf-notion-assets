@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "status": "n2_n4_single_lp11_report_generated",
+  "smf_counts": [
+    2,
+    4
+  ],
+  "best_eta_by_count": {
+    "2": 0.7750002096014241,
+    "4": 0.7421820139163451
+  },
+  "field_reconstruction_status": "retained_basis_reconstruction_completed",
+  "claim_boundary": "Current N=2/N=4 single-LP11 real mode-basis replay summary only; not a full N-trend or fabricated-device conclusion.",
+  "files": {
+    "selected_rows": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n2_n4_selected_rows.csv",
+    "energy": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n2_n4_energy.csv",
+    "field_diagnostics": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n2_n4_field_reconstruction_diagnostics.csv",
+    "controls": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n2_n4_controls_reconstructed.csv",
+    "report": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/reports/n2_n4_single_lp11_report.md",
+    "figures": {
+      "structures": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/optimized_structures_n2_n4.png",
+      "eta": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/eta_single_lp11_n2_vs_n4.png",
+      "energy": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/energy_accounting_n2_vs_n4.png",
+      "geometry": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/geometry_parameters_n2_vs_n4.png",
+      "field_N2": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/field_panels_N2.png",
+      "field_N4": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/field_panels_N4.png",
+      "field_contact": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/field_panels_N2_N4_contact_sheet.png"
+    },
+    "summary_json": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/data/n2_n4_single_lp11_report_summary.json"
+  }
+}

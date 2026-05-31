@@ -9,6 +9,14 @@
     "2": 0.7750002096014241,
     "4": 0.7421820139163451
   },
+  "n4_family_audit": {
+    "proxy_best_count": 5,
+    "stage_l_real_replay_best_count": 4,
+    "followup_real_replay_best_count": 3,
+    "best_stage_l_proxy_family": "rectangular_cross",
+    "best_stage_l_real_checked_family": "line_four",
+    "best_followup_real_family": "line_four"
+  },
   "field_reconstruction_status": "retained_basis_reconstruction_completed",
   "claim_boundary": "Current N=2/N=4 single-LP11 real mode-basis replay summary only; not a full N-trend or fabricated-device conclusion.",
   "files": {
@@ -16,12 +24,17 @@
     "energy": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n2_n4_energy.csv",
     "field_diagnostics": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n2_n4_field_reconstruction_diagnostics.csv",
     "controls": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n2_n4_controls_reconstructed.csv",
+    "n4_stage_l_family_best_proxy": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n4_stage_l_family_best_proxy.csv",
+    "n4_stage_l_family_best_real_replay": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n4_stage_l_family_best_real_replay.csv",
+    "n4_followup_family_best_real_replay": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n4_followup_family_best_real_replay.csv",
     "report": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/reports/n2_n4_single_lp11_report.md",
     "figures": {
       "structures": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/optimized_structures_n2_n4.png",
       "eta": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/eta_single_lp11_n2_vs_n4.png",
       "energy": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/energy_accounting_n2_vs_n4.png",
       "geometry": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/geometry_parameters_n2_vs_n4.png",
+      "n4_family_proxy_vs_real": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/n4_layout_family_proxy_vs_real.png",
+      "n4_family_proxy_structures": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/n4_stage_l_proxy_best_family_structures.png",
       "field_N2": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/field_panels_N2.png",
       "field_N4": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/field_panels_N4.png",
       "field_contact": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/field_panels_N2_N4_contact_sheet.png"

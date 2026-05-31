@@ -46,6 +46,16 @@ Stage L screened five N=4 layout families: `axis_cross`, `rectangular_cross`, `r
 
 ![N4 proxy-best family structures](../figures/n4_stage_l_proxy_best_family_structures.png)
 
+### Stage L Checked-Family Field Panels
+
+These panels use the checked real replay rows where a real S-matrix sidecar and matching SMF/SCF/FMF mode bases exist. `shifted_cross` is not shown here because it was not included in the Stage-L top-diverse real replay subset.
+
+![N4 Stage-L checked real field panels](../figures/n4_stage_l_real_family_field_contact_sheet.png)
+
+### Follow-Up Field Panels
+
+![N4 all checked/follow-up field panels](../figures/n4_all_family_real_replay_field_contact_sheet.png)
+
 ### Stage L Proxy Best by Family
 
 | family | eta proxy | eta group proxy | target | SCF | FMF R | L mm | pitch/parameter | rotation | positions |
@@ -111,6 +121,8 @@ Main readout: rectangular/corner/cross families looked strong in proxy (`~0.76-0
     "energy": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n2_n4_energy.csv",
     "field_diagnostics": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n2_n4_field_reconstruction_diagnostics.csv",
     "controls": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n2_n4_controls_reconstructed.csv",
+    "n4_family_field_diagnostics": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n4_family_field_reconstruction_diagnostics.csv",
+    "n4_family_controls": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n4_family_controls_reconstructed.csv",
     "n4_stage_l_family_best_proxy": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n4_stage_l_family_best_proxy.csv",
     "n4_stage_l_family_best_real_replay": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n4_stage_l_family_best_real_replay.csv",
     "n4_followup_family_best_real_replay": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/sweeps/n4_followup_family_best_real_replay.csv",
@@ -124,7 +136,16 @@ Main readout: rectangular/corner/cross families looked strong in proxy (`~0.76-0
       "n4_family_proxy_structures": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/n4_stage_l_proxy_best_family_structures.png",
       "field_N2": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/field_panels_N2.png",
       "field_N4": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/field_panels_N4.png",
-      "field_contact": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/field_panels_N2_N4_contact_sheet.png"
+      "field_contact": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/field_panels_N2_N4_contact_sheet.png",
+      "n4_family_field_stage_l_line_four": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/n4_family_field_panels_stage_l_line_four.png",
+      "n4_family_field_stage_l_rectangular_cross": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/n4_family_field_panels_stage_l_rectangular_cross.png",
+      "n4_family_field_stage_l_rectangle_corners": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/n4_family_field_panels_stage_l_rectangle_corners.png",
+      "n4_family_field_stage_l_axis_cross": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/n4_family_field_panels_stage_l_axis_cross.png",
+      "n4_family_field_stage_m_line_four": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/n4_family_field_panels_stage_m_line_four.png",
+      "n4_family_field_stage_k_cross": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/n4_family_field_panels_stage_k_cross.png",
+      "n4_family_field_history_cross": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/n4_family_field_panels_history_cross.png",
+      "n4_stage_l_family_field_contact": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/n4_stage_l_real_family_field_contact_sheet.png",
+      "n4_all_family_field_contact": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/figures/n4_all_family_real_replay_field_contact_sheet.png"
     },
     "summary_json": "Demo for user/2026-05-31_single_lp11_n2_n4_final_report/results/n2_n4_single_lp11_report/data/n2_n4_single_lp11_report_summary.json"
   }

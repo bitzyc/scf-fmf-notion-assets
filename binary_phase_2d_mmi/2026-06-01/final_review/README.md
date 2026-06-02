@@ -41,6 +41,10 @@ The relative field-plane figures are for shape comparison. SMF input panels norm
 
 ![eta_rho_er_pitch10_by_count.png](https://raw.githubusercontent.com/bitzyc/scf-fmf-notion-assets/main/binary_phase_2d_mmi/2026-06-01/final_review/eta_rho_er_pitch10_by_count.png)
 
+## eta_rho_er_pitch30_by_count.png
+
+![eta_rho_er_pitch30_by_count.png](https://raw.githubusercontent.com/bitzyc/scf-fmf-notion-assets/main/binary_phase_2d_mmi/2026-06-01/final_review/eta_rho_er_pitch30_by_count.png)
+
 ## pitch_summary_dashboard.png
 
 ![pitch_summary_dashboard.png](https://raw.githubusercontent.com/bitzyc/scf-fmf-notion-assets/main/binary_phase_2d_mmi/2026-06-01/final_review/pitch_summary_dashboard.png)
@@ -53,7 +57,12 @@ The relative field-plane figures are for shape comparison. SMF input panels norm
 
 ![energy_ledger_pitch10_variable.png](https://raw.githubusercontent.com/bitzyc/scf-fmf-notion-assets/main/binary_phase_2d_mmi/2026-06-01/final_review/energy_ledger_pitch10_variable.png)
 
+## energy_ledger_pitch30_variable.png
+
+![energy_ledger_pitch30_variable.png](https://raw.githubusercontent.com/bitzyc/scf-fmf-notion-assets/main/binary_phase_2d_mmi/2026-06-01/final_review/energy_ledger_pitch30_variable.png)
+
 ## robustness_pitch10_variable.png
 
 ![robustness_pitch10_variable.png](https://raw.githubusercontent.com/bitzyc/scf-fmf-notion-assets/main/binary_phase_2d_mmi/2026-06-01/final_review/robustness_pitch10_variable.png)
+
 

@@ -1,7 +1,7 @@
 {
   "source": "Binary-phase 2D MMI final-review figures",
-  "update": "Adds absolute-power field-plane figures and independent SMF input views.",
-  "generated_from_local_dir": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-06-01_binary_phase_2d_mmi_count\\results\\binary_phase_2d_mmi_pitch_sweep\\figures\\final_review",
+  "update": "Refreshes field-plane figures with max-SMF-power display scaling: equal-power channels are P=1 and variable-amplitude channels are normalized to the strongest SMF.",
+  "generated_from_local_dir": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex—MCF mode\\Demo for user\\2026-06-01_binary_phase_2d_mmi_count\\results\\binary_phase_2d_mmi_pitch_sweep\\figures\\final_review",
   "notion_page": "https://www.notion.so/3722f066c71681dca075f264775cc6e9",
   "images": {
     "field_planes_pitch10_variable_by_count.png": "https://raw.githubusercontent.com/bitzyc/scf-fmf-notion-assets/main/binary_phase_2d_mmi/2026-06-01/final_review/field_planes_pitch10_variable_by_count.png",

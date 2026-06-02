@@ -1,6 +1,6 @@
 {
   "source": "Binary-phase 2D MMI final-review figures",
-  "update": "Adds pitch=30 um eta/rho/ER and variable energy-ledger figures, while retaining corrected max-SMF-power field-plane scaling.",
+  "update": "Removes the green shared-L curve from pitch_summary_dashboard.png; dashboard is now eta-only.",
   "generated_from_local_dir": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex—MCF mode\\Demo for user\\2026-06-01_binary_phase_2d_mmi_count\\results\\binary_phase_2d_mmi_pitch_sweep\\figures\\final_review",
   "notion_page": "https://www.notion.so/3722f066c71681dca075f264775cc6e9",
   "images": {

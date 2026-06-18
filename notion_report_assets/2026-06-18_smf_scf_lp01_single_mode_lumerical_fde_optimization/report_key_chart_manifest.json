@@ -1,0 +1,68 @@
+{
+  "source_summary": "Demo for user/2026-06-18_smf_scf_lp01_single_mode_demo/results/lumerical_fde_lp01_single_mode_optimization/data/lp01_fde_optimization_summary.json",
+  "chart_count": 10,
+  "plane_count": 6,
+  "figures": [
+    {
+      "figure": "report_convergence_audit_fde_lp01.png",
+      "path": "Demo for user/2026-06-18_smf_scf_lp01_single_mode_demo/results/lumerical_fde_lp01_single_mode_optimization/report_key_charts/report_convergence_audit_fde_lp01.png",
+      "bytes": 41601,
+      "description": "Coarse/refinement audit chart."
+    },
+    {
+      "figure": "report_fmf_output_not_applicable.png",
+      "path": "Demo for user/2026-06-18_smf_scf_lp01_single_mode_demo/results/lumerical_fde_lp01_single_mode_optimization/report_key_charts/report_fmf_output_not_applicable.png",
+      "bytes": 94445,
+      "description": "Explicit no-FMF claim-boundary chart."
+    },
+    {
+      "figure": "report_geometry_scf_smf_fde_lp01.png",
+      "path": "Demo for user/2026-06-18_smf_scf_lp01_single_mode_demo/results/lumerical_fde_lp01_single_mode_optimization/report_key_charts/report_geometry_scf_smf_fde_lp01.png",
+      "bytes": 116141,
+      "description": "Geometry comparison with dashed SCF and SMF core contours."
+    },
+    {
+      "figure": "report_key_planes_rot00_fde_lp01.png",
+      "path": "Demo for user/2026-06-18_smf_scf_lp01_single_mode_demo/results/lumerical_fde_lp01_single_mode_optimization/report_key_charts/report_key_planes_rot00_fde_lp01.png",
+      "bytes": 306064,
+      "description": "0 degree candidate key-plane amplitude/phase panels."
+    },
+    {
+      "figure": "report_key_planes_rot45_fde_lp01.png",
+      "path": "Demo for user/2026-06-18_smf_scf_lp01_single_mode_demo/results/lumerical_fde_lp01_single_mode_optimization/report_key_charts/report_key_planes_rot45_fde_lp01.png",
+      "bytes": 320662,
+      "description": "45 degree candidate key-plane amplitude/phase panels."
+    },
+    {
+      "figure": "report_key_planes_smf_scf_fde_lp01.png",
+      "path": "Demo for user/2026-06-18_smf_scf_lp01_single_mode_demo/results/lumerical_fde_lp01_single_mode_optimization/report_key_charts/report_key_planes_smf_scf_fde_lp01.png",
+      "bytes": 632250,
+      "description": "Combined SMF input, SCF input, and SCF exit amplitude/phase panels for 0 and 45 degree FDE-optimized LP01 candidates."
+    },
+    {
+      "figure": "report_metric_baselines_fde_lp01.png",
+      "path": "Demo for user/2026-06-18_smf_scf_lp01_single_mode_demo/results/lumerical_fde_lp01_single_mode_optimization/report_key_charts/report_metric_baselines_fde_lp01.png",
+      "bytes": 51626,
+      "description": "FDE with-SCF, no-SCF, and previous replay metric comparison."
+    },
+    {
+      "figure": "report_robustness_fde_lp01.png",
+      "path": "Demo for user/2026-06-18_smf_scf_lp01_single_mode_demo/results/lumerical_fde_lp01_single_mode_optimization/report_key_charts/report_robustness_fde_lp01.png",
+      "bytes": 38587,
+      "description": "Nominal and Monte Carlo robustness summary."
+    },
+    {
+      "figure": "report_scf_exit_amplitude_phase_fde_lp01.png",
+      "path": "Demo for user/2026-06-18_smf_scf_lp01_single_mode_demo/results/lumerical_fde_lp01_single_mode_optimization/report_key_charts/report_scf_exit_amplitude_phase_fde_lp01.png",
+      "bytes": 240304,
+      "description": "SCF exit/work-plane amplitude and phase panels."
+    },
+    {
+      "figure": "report_smf_input_power_amplitude_phase_fde_lp01.png",
+      "path": "Demo for user/2026-06-18_smf_scf_lp01_single_mode_demo/results/lumerical_fde_lp01_single_mode_optimization/report_key_charts/report_smf_input_power_amplitude_phase_fde_lp01.png",
+      "bytes": 111510,
+      "description": "Per-core input power, amplitude, and phase controls."
+    }
+  ],
+  "claim_boundary": "SMFs-SCF MODE/FDE retained-basis evidence only; no FMF receiver, no O matrix, no free-space propagation, no EME/FDTD propagation."
+}
